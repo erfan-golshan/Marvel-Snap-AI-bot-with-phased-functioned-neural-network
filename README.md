@@ -19,7 +19,7 @@ They can adapt to players' preferences, provide challenging gameplay, and even s
 
 engaging and dynamic experiences for players.
 
-
+---------------------------------------------------------------------------
 * About Marvel Snap card game
 
 In Marvel Snap, players build decks of 12 cards and battle against other players. Like other card battlers, each card has an energy cost (from one to six) and a power level (but no health – these cards do not 
@@ -35,12 +35,12 @@ win each battle, you simply need to win two of the three locations. Tiebreakers 
 
 
 
-
+---------------------------------------------------------------------------
 * Our objective
 
 Our goal is to build the artificial intelligence of a person. It means to upload his game data to the robot and the robot will learn from him and then play like him.
 
-
+---------------------------------------------------------------------------
 * Investigating the interpolation method
 
 In this method, we give a series of points from the domain of an unknown function to the neural network and give the value of the function at that point as an answer. Then we train the network. Finally, the 
@@ -53,7 +53,7 @@ the answer was not in its dataset, because it has been learned, it will answer t
 
 But it depends on good categorizing the data of each game.
 
-
+---------------------------------------------------------------------------
 * How to implement neural network
 
 In each turn, the total energy(cost) defines the cards that can be played. And the result of power conquering of each location is given from the last turn. Imagine on turn n with location power result of t, the 
@@ -63,8 +63,8 @@ combinations of the valid cards (sum of the cost of them are equal to n) are p1,
 combinations and second of all, a different neural network should choose which card of this combination should be played on which location.
 
 
-
-Training the network
+---------------------------------------------------------------------------
+* Training the network
 
 By using the above algorithm (phased-function neural network), we trained our neural networks (with the help of PyTorch library). As you can see from this implementation, there are multiple parallel networks 
 
