@@ -1,4 +1,4 @@
-![image](https://github.com/erfan-golshan/Marvel-Snap-card-game-with-phased-functioned-neural-network/assets/129675348/1125e790-e62f-4c19-80df-8fa5be1398a6)# Marvel-Snap-card-game-with-phased-functioned-neural-network
+# Marvel-Snap-card-game-with-phased-functioned-neural-network
 
 Dream Rain game company
 
