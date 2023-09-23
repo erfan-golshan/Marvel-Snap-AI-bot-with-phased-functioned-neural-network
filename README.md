@@ -1,4 +1,4 @@
-# Marvel-Snap-card-game-with-phased-functioned-neural-network
+# Marvel-Snap-AI-bot-with-phased-functioned-neural-network
 
 Dream Rain game company
 
