@@ -1,8 +1,8 @@
 # Marvel-Snap-AI-bot-with-phased-functioned-neural-network
 
-Dream Rain game company
 
-Erfan Golshan, Artificial intelligence maker and game designer
+
+Erfan Golshan, Artificial intelligence maker and game designer at Dream Rain game company
 
 ---------------------------------------------------------------------------
 
