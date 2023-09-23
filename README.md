@@ -67,7 +67,6 @@ combinations and second of all, a different neural network should choose which c
 * Training the network
 
 By using the above algorithm (phased-function neural network), we trained our neural networks (with the help of PyTorch library). As you can see from this implementation, there are multiple parallel networks 
-
 that are being trained simultaneously. 
 
 
